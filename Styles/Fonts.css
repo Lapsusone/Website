@@ -1,0 +1,49 @@
+@font-face{
+    font-family: 'Quicksand-regular';
+    font-weight: 400;
+    src:
+    url('../Fonts/Quicksand/Quicksand-Regular.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'Quicksand-light';
+    font-weight: 300;
+    src:
+    url('../Fonts/Quicksand/Quicksand-Light.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'Quicksand-bold';
+    font-weight: 700;
+    src:
+    url('../Fonts/Quicksand/Quicksand-Bold.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'Poiret-one';
+    src:
+    url('../Fonts/Poiret_One/PoiretOne-Regular.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'Simplifica';
+    src:
+    url('../Fonts/SIMPLIFICA/SIMPLIFICA Typeface.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'Adam';
+    src:
+    url('../Fonts/ADAMCGPRO - SHRENIK/ADAM.CG PRO.otf') format('truetype');
+}
+@font-face{
+    font-family: 'Glamor-regular';
+    src:
+    url('../Fonts/Glamor - TTF/Glamor-Regular.ttf') format('truetype');
+}
+@font-face{
+    font-family: 'Raleway';
+    src:
+    url('../Fonts/Raleway/Raleway-Regular.otf') format('truetype');
+}
+@font-face{
+    font-family: 'Aileron';
+    font-weight: 300;
+    src:
+    url('../Fonts/aileron/Aileron-UltraLight.otf') format('truetype');
+}

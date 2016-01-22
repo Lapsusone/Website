@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /Files/
+Disallow: /Fonts/
+Disallow: /Images/
+Disallow: /Scripts/
+Disallow: /Styles/
+Disallow: /Videos/
+Disallow: /converter.html

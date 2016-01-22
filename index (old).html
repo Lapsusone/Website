@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Croisillon</title>
+    <meta name="description" content="Wajdi Bounouara - site web personnel." />
+    <meta content="text/html; charset=utf-8"/>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <link rel="stylesheet" href="Styles/Croisillon.css" type="text/css"/>
+    <link rel="stylesheet" href="Styles/Fonts.css" type="text/css"/>
+    <link rel="stylesheet" href="Styles/Header.css" type="text/css"/>
+    <link rel="stylesheet" href="Styles/HoverWindow.css" type="text/css"/>
+
+</head>
+<body>
+<header id="header">
+    <span id="title">Croisillon</span>
+    <span id="grip">From an enthusiast.</span>
+    <img id="logo" alt="Logo" src="Images/Icons/logo.png"/>
+    <menu id="sticky_navigation">
+        <!--<a href="#"><img id="logomenu" alt="menu logo" src="Images/Icons/logo.png"/></a>-->
+        <nav>
+            <a class="menu" href="#home">Profile</a>
+            <a class="menu" href="#experience">Experience</a>
+            <a class="menu" href="#interests">Interests</a>
+            <a class="menu" href="#resume">Resume</a>
+            <a class="menu" href="#contact">Contact</a>
+        </nav>
+        <div id="social">
+            <a title="Twitter" href="https://twitter.com/lapsusone" target="_blank"><img id="twitter" alt="Twitter" src="Images/Icons/Inactive_menu/PNG/twitter_inactive_menu.png"/></a>
+            <a title="Vine" href="https://vine.co/u/907030296287907840" target="_blank"><img id="vine" alt="Vine" src="Images/Icons/Inactive_menu/PNG/vine_inactive_menu.png"/></a>
+            <a title="Flickr" href="https://www.flickr.com/photos/67099468@N04/" target="_blank"><img id="flickr" alt="Flickr" src="Images/Icons/Inactive_menu/PNG/flickr_inactive_menu.png"/></a>
+            <a title="Skype" onclick="$('#skypeHover').fadeIn();"><img id="skype" alt="Skype" src="Images/Icons/Inactive_menu/PNG/skype_inactive_menu.png"/></a>
+            <a title="TED" href="http://www.ted.com/profiles/2563521" target="_blank"><img id="ted" alt="TED" src="Images/Icons/Inactive_menu/PNG/ted_inactive_menu.png"/></a>
+        </div>
+    </menu>
+</header>
+
+        <span id="temp" style="display:block;position: fixed;background-color:orange;top:0px;width:100%;font-family: Raleway;font-size: 1.2em;text-align: center">
+            Please consider this website as under development. Some features could not work properly.
+        </span>
+<div id='skypeHover' class='hover'>
+    <div style='display: inline-block;vertical-align: middle;height: 100%;'></div>
+    <img id='close' alt='Close hover window' onclick="$('#skypeHover').fadeOut();" src='Images/Icons/close.png'/>
+    <img alt="Skype" src="Images/Icons/Hover/PNG/skype_active.png" style="position: relative;display: inline-block;vertical-align: middle;margin-right: .3em;"/>
+    <span style="position: relative;display: inline-block;font-size:5em;vertical-align: middle;font-family: 'Aileron',Arial,sans-serif;margin-left: .1em;cursor: alias">lapsusone</span>
+</div>
+<div class="section" id="home">
+    <h2>PROFILE</h2>
+    <img id="profile" alt="Profile image" src="Images/Photos/419928_3183306673392_60227232_n.png"/>
+    <p style="top:0em;">
+        Serious, autonomous, smiling and curious by nature. I'm fascinated by computing, technology and design. I'm a very open-minded guy.
+    </p>
+    <p style="top:0em;">
+        This website purpose is to present my self in a more modern way than a usual old school curriculum vitae on paper.
+    </p>
+    <p style="top: 0em;">
+        One of my final goal here is to render it <a href="https://en.wikipedia.org/wiki/Responsive_web_design">responsive</a>.
+    </p>
+</div>
+<div class="section" id="experience">
+    <h2>Experience</h2>
+    <p>
+        One of my most recent project was a rolling robot Mindstorm. We programmed it in a way that he had to fight against another robot on finding balls on a field and putting them in goals.
+    </p>
+    <p>
+        I've been working now for over a year, as a part time job in a fast food company. This job really made me discover the basis of the professional work in a company, as well as working quickly. I know what to expect now in integrating a company.
+    </p>
+    <p>
+        I also worked in a restaurant for 4 years, as a waiter, so I have a really good sense of what customers expectations are, which is very valuable in a company.
+    </p>
+</div>
+<div class="section" id="interests">
+    <h2>Interests</h2>
+    <p>
+        Sports like biking and running, huge interest for cinema, modern design, music and the culture surrounding it.
+    </p>
+    <p>
+        I watch a lot of conferences from various domains such as technological news, companies and culture in general. <a style='color: rgba(255,246,196,200)' href="http://www.ted.com">TED</a> is one of my favorite source of culture.
+    </p>
+    <p>
+        Typography, design, music, cinema, tech culture and cars culture are among my favorites interests.
+    </p>
+
+
+</div>
+<div class="section" id="resume">
+    <h2>Resume</h2>
+
+    <p>
+        You'll find some more details about me in my resume. You can download it below (<a href="Files/CV.pdf">french version here</a>).
+    </p>
+    <p>
+        It'll soon be viewable online.
+    </p>
+
+    <div id="pdf" class="button">
+        <a href="Files/Resume.pdf" target="_blank" style="text-decoration: none;">
+            <span>Download</span>
+            <img alt="Adobe® Acrobat logo" src="Images/Icons/acrobat.svg"/>
+        </a>
+    </div>
+
+    <div id="html5" class="button">
+        <span>View</span>
+        <img alt="HTML5 logo" src="Images/Icons/HTML5.svg"/>
+    </div>
+</div>
+<div class="section" id="contact">
+    <h2>Contact</h2>
+    <p>
+        This website purpose is to present my self in a very personal way to make you feel my interests for real.
+    </p>
+    <p>
+        Please feel free to <script type='text/javascript'>var a = new Array('inf','di.','me@','waj','o');document.write("<a href='mailto:"+a[2]+a[3]+a[1]+a[0]+a[4]+"'>"+"contact me</a>");</script>, I'm open to any suggestion, discussion, or critic(s) about this site as long as it is constructive and brings value to both you and me.
+    </p>
+</div>
+<footer>
+</footer>
+<script  type="text/javascript" src="Scripts/script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+#close{
+    width:5em;
+    height: auto;
+    position: fixed;
+    top: 1em;
+    left: 1em;
+    display: inline-block;
+}
+#close:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+.hover{
+    text-align: center;
+    background-color: rgb(234,231,232);
+    display: block;
+    position: fixed;
+    top:0px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    opacity: 0.98;
+    z-index: 100000;
+    height: 100%;
+    display: none;
+}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="459.27771"
+   height="459.27771"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="close.svg"
+   inkscape:export-filename="/Users/lapsusone/Dropbox/Mon Site/Croisillon/public_html/Images/Icons/close.png"
+   inkscape:export-xdpi="11.992505"
+   inkscape:export-ydpi="11.992505">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2858731"
+     inkscape:cx="91.989186"
+     inkscape:cy="229.63885"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:window-width="1299"
+     inkscape:window-height="797"
+     inkscape:window-x="36"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-136.66415,-256.06678)">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2985"
+       sodipodi:cx="420.94489"
+       sodipodi:cy="694.1543"
+       sodipodi:rx="224.63885"
+       sodipodi:ry="224.63885"
+       d="m 645.58374,694.1543 c 0,124.06461 -100.57424,224.63885 -224.63885,224.63885 -124.06462,0 -224.63886,-100.57424 -224.63886,-224.63885 0,-124.06462 100.57424,-224.63886 224.63886,-224.63886 124.06461,0 224.63885,100.57424 224.63885,224.63886 z"
+       transform="translate(-54.641883,-208.44866)"
+       inkscape:export-filename="/Users/lapsusone/Dropbox/Mon Site/Croisillon/public_html/Images/Icons/close.png"
+       inkscape:export-xdpi="230"
+       inkscape:export-ydpi="230" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 237.09205,356.49468 c 257.36709,257.36712 258.4219,258.4219 258.4219,258.4219"
+       id="path3761"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/lapsusone/Dropbox/Mon Site/Croisillon/public_html/Images/Icons/close.png"
+       inkscape:export-xdpi="230"
+       inkscape:export-ydpi="230" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 235.32958,616.67907 497.27642,354.7322"
+       id="path3763"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/lapsusone/Dropbox/Mon Site/Croisillon/public_html/Images/Icons/close.png"
+       inkscape:export-xdpi="230"
+       inkscape:export-ydpi="230" />
+  </g>
+</svg>

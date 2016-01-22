@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <title>Wajdi Bounouara</title>
+    <link rel="stylesheet" href="Styles/Fonts.css" type="text/css"/>
+    <link rel="stylesheet" href="Styles/Temporary.css" type="text/css"/>
+</head>
+<body link="white" vlink="#ff4f9d" alink="#000000" style="background-color: rgb(0,83,127);">
+<span class="temp" id="tempWarning"></span>
+<span class="temp" id="tempContact"><script type='text/javascript'>var a = new Array('inf','di.','me@','waj','o');document.write("<a style='text-decoration:none;' href='mailto:"+a[2]+a[3]+a[1]+a[0]+a[4]+"'>"+"Contact</a>");</script></span>
+</body>
+<script type="text/javascript">
+    var language = navigator.language || navigator.userLanguage;
+    if(language.indexOf("fr") > -1)
+        document.getElementById("tempWarning").innerHTML = "Bientôt.";
+    else
+        document.getElementById("tempWarning").innerHTML = "Coming soon.";
+</script>
+</html>
